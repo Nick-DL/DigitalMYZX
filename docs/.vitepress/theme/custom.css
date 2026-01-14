@@ -1,0 +1,13 @@
+:root {
+  --vp-c-brand-1: #9D2C1A;
+  --vp-c-brand-2: #9D2C1A;
+  --vp-c-brand-3: #9D2C1A;
+  --vp-c-brand-soft: #9D2C1A;
+}
+
+.dark {
+  --vp-c-brand-1: #9D2C1A;
+  --vp-c-brand-2: #9D2C1A;
+  --vp-c-brand-3: #9D2C1A;
+  --vp-c-brand-soft: #9D2C1A;
+}

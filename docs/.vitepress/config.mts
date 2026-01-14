@@ -1,0 +1,51 @@
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  lang: 'zh-CN',
+  title: '玩转数字绵中',
+  description: '玩转数字绵中 文档站',
+
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
+    ['meta', { name: 'theme-color', content: '#9D2C1A' }]
+  ],
+
+  themeConfig: {
+    logo: '/logo.svg',
+    nav: [
+      { text: '指南', link: '/guide/' },
+      { text: '资源', link: '/resources/' },
+      { text: '参与编辑', link: '/contribute/' }
+    ],
+
+    sidebar: {
+      '/guide/': [
+        {
+          text: '指南',
+          items: [
+            { text: '序言', link: '/guide/' },
+            { text: '0. 概述', link: '/guide/overview' },
+            { text: '1. 校园网', link: '/guide/campus-local-area-network' },
+            { text: '2. 教室电教设备', link: '/guide/classroom-equipment' },
+            { text: '3. 教室灯', link: '/guide/classroom-lights' },
+            { text: '4. 教室空调', link: '/guide/classroom-ac' },
+            { text: '5. 电子班牌（请假系统）', link: '/guide/electronic-class-badge' },
+            { text: '6. 办公设备', link: '/guide/office-equipment' },
+            { text: '7. 流水系统', link: '/guide/circulation-system' },
+            { text: '8. 广播系统', link: '/guide/broadcasting' },
+            { text: '9. 监控', link: '/guide/monitor' }
+          ]
+        },
+        {
+          text: '更多',
+          items: [
+          { text: '资源', link: '/resources/' },
+          { text: '参与编辑', link: '/contribute/' }
+          ]
+        }
+      ]
+    },
+
+    socialLinks: []
+  }
+})
