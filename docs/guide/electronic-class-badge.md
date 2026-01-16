@@ -21,7 +21,7 @@
 ## 基础玩法
 
 通过在AppBar上左右滑动五个来回 (正确的操作似乎是上滑一次即可)，可打开配置面板。在数字键盘上输入1-8任意数字可切换主题。（注：输入8位数`[CONDENSED]`可打开调试菜单）
-![GS Console](../public/img/GS.Console.PNG)
+![GS Console](../public/img/GS.Console.png)
 
 ## 神秘玩法
 
