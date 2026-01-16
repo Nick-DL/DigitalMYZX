@@ -14,7 +14,7 @@ https://github.com/Nick-DL/DigitalMyZX
 
 ### 提交 Issue
 
-https://github.com/Nick-DL/DigitalMyZX/Issues
+https://github.com/Nick-DL/DigitalMyZX/issues
 
 ### 联系我
 
