@@ -63,16 +63,16 @@ explorer
 ### 图片 CDN
 
 打开 `10.37.2.21:8080` 可以看到2018年以来电子班牌系统使用的所有图片素材，如头像、班级展示墙图片、宣传海报图片等。未登录不能修改，只能上传/下载。
-![HFS](../public/img/HFS.png)
+![HFS](/img/HFS.png)
 
 ### 圣遗物
 
 - IPConfig：学长装在通慧楼一部分电子班牌上的小插件，会在左上角显示IP地址后两位。
-![IPConfig](../public/img/IPconfig.png)
+![IPConfig](/img/IPconfig.png)
 - Addons中的申必缓存：在一些电子班牌的主程序Addons目录下可见名为"Cirno.ChinaGS.Injection.Temp"的隐藏文件夹。参见 [超高阶玩法](#超高阶玩法)
-![Injection](../public/img/Injection.PNG)
+![Injection](/img/Injection.PNG)
 - FileCenter：用电子班牌搭建的静态文件站，内含常用网站导航。
-![FC](../public/img/FileCenter.png)
+![FC](/img/FileCenter.png)
 
 ## 超高阶玩法
 
