@@ -6,19 +6,29 @@ title: 玩转数字绵中
 hero:
   name: 玩转『数字绵中』
   text: 文档站
-  tagline: 使用 VitePress 构建的简洁文档站
+  tagline: The DigitalMYZX Guide
   actions:
     - theme: brand
       text: 开始阅读
       link: /guide/
 ---
 
-## 网站正在搭建中
+> [!IMPORTANT]网站正在搭建中……
+> 出现AI痕迹、错别字、假链接、图片缺失等请先忽略，文章是手写扫描后让AI识别的，时间仓促，敬请谅解。
 
-出现AI痕迹、假链接、图片缺失等请先忽略，文章是手写扫描后让AI识别的，时间仓促，敬请谅解。
+## 在这里
 
-## 快速开始
+以一种全新的视角认识这座学校。
 
-- 运行 `npm install`
-- 开发预览：`npm run docs:dev`
-- 构建：`npm run docs:build`
+如果你对校内的各种硬件设备有一点点好奇，或许在这里能找到深入研究的突破口！
+## ~~特色条目~~
+
+[希沃（教室电教设备）](guide/classroom-equipment.md)
+
+[电子班牌（请假系统）](guide/electronic-class-badge.md)
+
+ ## 信息
+ 
+基于 CC BY-NC-SA 4.0 许可发布
+
+版权所有 © 2026 玩转数字绵中

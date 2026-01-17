@@ -66,10 +66,15 @@ explorer
 ### 圣遗物
 
 - IPConfig：学长装在通慧楼一部分电子班牌上的小插件，会在左上角显示IP地址后两位。
+
 ![IPConfig](../public/img/IPconfig.png)
+
 - Addons中的申必缓存：在一些电子班牌的主程序Addons目录下可见名为"Cirno.ChinaGS.Injection.Temp"的隐藏文件夹。参见 [超高阶玩法](#超高阶玩法)
+
 ![Injection](/img/injection.png)
+
 - FileCenter：用电子班牌搭建的静态文件站，内含常用网站导航。
+
 ![FC](../public/img/FileCenter.png)
 
 ## 超高阶玩法
@@ -80,8 +85,7 @@ explorer
 
 [GitHub主页](https://github.com/myhsp)
 
-::: info
-注意：截至发稿，本站还未与该大佬取得联系（缺联系方式）。看到大佬的研究成果被时间湮没，而编者没有能力进行相关研究，感到十分遗憾。
-
-故在此记录，希望有识之士能加以研究，或参与完善。
-:::
+> [!IMPORTANT]
+> 注意：截至发稿，本站还未与该大佬取得联系（缺联系方式）。看到大佬的研究成果被时间湮没，而编者没有能力进行相关研究，感到十分遗憾。
+> 
+> 故在此记录，希望有识之士能加以研究，或参与完善。

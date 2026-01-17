@@ -26,7 +26,7 @@ export default defineConfig({
             { text: '序言', link: '/guide/' },
             { text: '0. 概述', link: '/guide/overview' },
             { text: '1. 校园网', link: '/guide/campus-local-area-network' },
-            { text: '2. 教室电教设备', link: '/guide/classroom-equipment' },
+            { text: '2. 希沃（教室电教设备）', link: '/guide/classroom-equipment' },
             { text: '3. 教室灯', link: '/guide/classroom-lights' },
             { text: '4. 教室空调', link: '/guide/classroom-ac' },
             { text: '5. 电子班牌（请假系统）', link: '/guide/electronic-class-badge' },
