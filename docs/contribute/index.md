@@ -19,3 +19,9 @@ https://github.com/Nick-DL/DigitalMyZX/issues
 ### 联系我
 
 [邮箱](mailto:nick_dl@outlook.com)
+
+## To-do list
+
+- 完善配图
+- 完善遣词造句（现在似乎还有病句诶）
+- 细化条目，丰富内容
