@@ -5,6 +5,9 @@ export default defineConfig({
   title: '玩转数字绵中',
   description: '玩转数字绵中 文档站',
   lastUpdated: true,
+  sitemap: {
+    hostname: 'https://ndwdgmz.netlify.app'
+  },
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
