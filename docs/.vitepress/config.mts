@@ -6,7 +6,7 @@ export default defineConfig({
   description: '玩转数字绵中 文档站',
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://ndwdgmz.netlify.app'
+    hostname: 'https://dgmz.nickdl.site'
   },
 
   head: [
