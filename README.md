@@ -1,6 +1,10 @@
 # DigitalMyZX
 
 玩转数字绵中 文档站（VitePress）
+>[!NOTE]
+>Deploy status badge:
+>
+>[![Netlify Status](https://api.netlify.com/api/v1/badges/6639e8b4-0807-428c-a995-d72e96576c0d/deploy-status)](https://app.netlify.com/projects/ndwdgmz/deploys)
 
 ## 开发
 
