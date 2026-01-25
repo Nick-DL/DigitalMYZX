@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '玩转数字绵中',
   description: '玩转数字绵中 文档站',
+  lastUpdated: true,
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
@@ -46,6 +47,36 @@ export default defineConfig({
       ]
     },
 
-    socialLinks: []
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/Nick-DL/DigitalMYZX' }
+    ],
+
+    outline: {
+      label: '本页目录',
+      level: [2, 3]
+    },
+
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+
+    darkModeSwitchLabel: '外观',
+    lightModeSwitchTitle: '切换到浅色模式',
+    darkModeSwitchTitle: '切换到深色模式',
+    sidebarMenuLabel: '菜单',
+    returnToTopLabel: '返回顶部',
+    langMenuLabel: '切换语言',
+
+    lastUpdated: {
+      text: '最近更新于'
+    },
+
+    notFound: {
+      title: '找不到页面',
+      quote: '页面不存在或已被移除……',
+      linkLabel: '返回首页',
+      linkText: '返回首页'
+    }
   }
 })

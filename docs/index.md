@@ -32,3 +32,10 @@ hero:
 基于 CC BY-NC-SA 4.0 许可发布
 
 版权所有 © 2026 玩转数字绵中
+
+::: details 参考
+本站建设时参考了以下网站或项目，在此致谢！
+- [VitePress 文档](https://vitepress.dev/)
+- [HugoAura 文档](https://docs.aurax.cc/)
+- [西邮 Wiki](https://wiki.cooo.site/)
+:::
