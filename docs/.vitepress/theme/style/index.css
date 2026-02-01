@@ -1,11 +1,14 @@
 /* .vitepress/theme/style/index.css */
 @import './blur.css';
 
+a, button {
+    -webkit-tap-highlight-color: transparent;
+}
+
 .vp-doc a {
     background: linear-gradient(var(--vp-c-brand-soft), var(--vp-c-brand-soft)) no-repeat center bottom / 100% 2px;
     text-decoration: none;
     transition: 0.2s;
-    -webkit-tap-highlight-color: transparent;
 }
 
 .vp-doc a:hover {
