@@ -7,8 +7,8 @@ https://github.com/Nick-DL/DigitalMYZX
 ## 基本流程
 
 1. Fork 仓库
-2. 修改 `docs/` 下对应的 Markdown 文件
-3. 提交 PR
+2. 修改 `docs/` 下对应的 `.md` 文件
+3. 提交 Pull Request
 
 ## 其他方式
 
@@ -18,7 +18,7 @@ https://github.com/Nick-DL/DigitalMYZX/issues
 
 ### 联系我
 
-[邮箱](mailto:nick_dl@outlook.com)
+[发送邮件](mailto:nick_dl@outlook.com)
 
 ## To-do list
 
