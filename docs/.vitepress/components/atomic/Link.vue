@@ -53,7 +53,6 @@ withDefaults(defineProps<LinkProps>(), {
 	display: inline-flex;
 	gap: 0.2em;
 	position: relative;
-	overflow: hidden;
 	overflow: clip;
 	font-weight: normal;
 	line-height: 1.4;
