@@ -11,3 +11,51 @@
   --vp-c-brand-3: #9D2C1A;
   --vp-c-brand-soft: #4D1610;
 }
+
+/* 资源卡片样式 */
+.resource-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.resource-cards .resource-card {
+  display: block;
+  padding: 24px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  transition: border-color 0.4s ease, box-shadow 0.4s ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.resource-cards .resource-card:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.dark .resource-cards .resource-card:hover {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.resource-card-icon {
+  font-size: 32px;
+  margin-bottom: 12px;
+  text-decoration: none;
+}
+
+.resource-card-title {
+  margin: 0 0 8px;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.resource-card-description {
+  margin: 0;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+  text-decoration: none;
+}

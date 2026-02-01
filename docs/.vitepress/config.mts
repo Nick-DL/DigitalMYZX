@@ -17,9 +17,9 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
     nav: [
-      { text: '指南', link: '/guide/' },
-      { text: '资源', link: '/resources/' },
-      { text: '参与编辑', link: '/contribute/' }
+      { text: '指南', link: '/guide/', activeMatch: '/guide/' },
+      { text: '资源', link: '/resources/', activeMatch: '/resources/' },
+      { text: '参与编辑', link: '/contribute/', activeMatch: '/contribute/' }
     ],
 
     sidebar: {
@@ -45,6 +45,24 @@ export default defineConfig({
           items: [
           { text: '资源', link: '/resources/' },
           { text: '参与编辑', link: '/contribute/' }
+          ]
+        }
+      ],
+      '/resources/': [
+        {
+          text: '资源',
+          link: '/resources/',
+          items: [
+            { text: 'IP 表', link: '/resources/ip-table' },
+            { text: '广播素材', link: '/resources/broadcasting-materials' },
+            { text: '常用网址导航', link: '/resources/common-websites' }
+          ]
+        },
+        {
+          text: '更多',
+          items: [
+            { text: '指南', link: '/guide/' },
+            { text: '参与编辑', link: '/contribute/' }
           ]
         }
       ]

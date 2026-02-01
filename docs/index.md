@@ -33,9 +33,11 @@ hero:
 
 版权所有 © 2026 玩转数字绵中
 
-::: details 参考
+::: details 参考与致谢
 本站建设时参考了以下网站或项目，在此致谢！
 - [VitePress 文档](https://vitepress.dev/)
+- [vitepress.yiov.top](https://vitepress.yiov.top)
 - [HugoAura 文档](https://docs.aurax.cc/)
 - [西邮 Wiki](https://wiki.cooo.site/)
+- [绵阳中学 Wiki](https://scmyzx.fandom.com/zh/wiki/绵阳中学_Wiki)
 :::
