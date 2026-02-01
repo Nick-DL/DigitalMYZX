@@ -54,6 +54,7 @@ export default defineConfig({
           link: '/resources/',
           items: [
             { text: 'IP 表', link: '/resources/ip-table' },
+            { text: '电子班牌 IP 表', link: '/resources/ip-table-smartboard' },
             { text: '广播素材', link: '/resources/broadcasting-materials' },
             { text: '常用网址导航', link: '/resources/common-websites' }
           ]

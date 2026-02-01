@@ -19,13 +19,14 @@ const props = withDefaults(defineProps<Props>(), {
     <div class="linkcard">
         <a :href="props.url" target="_blank">
             <p class="description">{{ props.title }}<br><span>{{ props.description }}</span></p>
-            <div class="logo">
+            <div class="logo" v-if="props.logo">
                 <img alt="logo" width="70px" height="70px" :src="props.logo" />
             </div>
         </a>
     </div>
 </template>
 
+/* <img alt="logo" width="70px" height="70px" :src="props.logo" /> */
 <style>
 /* 卡片背景 */
 .linkcard {
@@ -34,6 +35,7 @@ const props = withDefaults(defineProps<Props>(), {
     padding: 8px 16px 8px 8px;
     transition: color 0.5s, background-color 0.5s;
     margin-top: 15px;
+    min-height: 86px; /* 确保无logo时高度一致 (70px + 8px*2 padding) */
 }
 
 /* 卡片鼠标悬停 */
@@ -45,6 +47,12 @@ const props = withDefaults(defineProps<Props>(), {
 .linkcard a {
     display: flex;
     align-items: center;
+    min-height: 70px; 
+    background: none;
+}
+
+.linkcard a:hover {
+    background: none;
 }
 
 /* 描述链接文字 */

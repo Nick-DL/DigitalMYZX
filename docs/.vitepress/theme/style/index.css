@@ -1,2 +1,26 @@
 /* .vitepress/theme/style/index.css */
 @import './blur.css';
+
+.vp-doc a {
+    background: linear-gradient(var(--vp-c-brand-soft), var(--vp-c-brand-soft)) no-repeat center bottom / 100% 2px;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.vp-doc a:hover {
+    border-radius: 0.2em;
+    background: linear-gradient(var(--vp-c-brand-soft), var(--vp-c-brand-soft)) no-repeat center bottom / 100% 100%;
+}
+
+.vp-doc a.resource-card {
+    background: none;
+}
+
+.vp-doc a.header-anchor {
+    background: none;
+}
+
+.vp-doc a.resource-card:hover {
+    border-radius: 8px;
+    background: none;
+}
