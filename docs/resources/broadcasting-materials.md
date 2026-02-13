@@ -4,9 +4,9 @@
 
 ## 第三版音乐扩充歌单
 
-大多数来自酷狗音乐歌单：https://m.kugou.com/songlist/gcid_3zo802f1z15z031/?src_cid=3zo802f1z15z031&kgsscty1=message&chl=message
+大多数来自酷狗音乐歌单：[学习日常｜自律是人生开挂的开始](https://m.kugou.com/songlist/gcid_3zo802f1z15z031/?src_cid=3zo802f1z15z031&kgsscty1=message&chl=message)
 
-音乐包下载链接：https://www.123pan.com/s/he7rVv-V8XO
+音乐包下载链接：[123 云盘分享 - 扩充.7z](https://www.123pan.com/s/he7rVv-V8XO)
 
 ## 曲目列表
 

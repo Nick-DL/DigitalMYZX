@@ -37,4 +37,5 @@
   url="/resources/broadcasting-materials" 
   title="资源：广播素材" 
   description="学校广播的铃声及山下草坪、走廊、食堂音响播放的部分音乐" 
+  logo="/icons/share.svg"
 />

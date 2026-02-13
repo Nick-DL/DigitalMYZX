@@ -1,3 +1,5 @@
+/* 来自 vitepress.yiov.top */
+
 <script setup lang="ts">
 interface Props {
     url: string
@@ -40,7 +42,7 @@ const props = withDefaults(defineProps<Props>(), {
 
 /* 卡片鼠标悬停 */
 .linkcard:hover {
-    background-color: var(--vp-c-yellow-soft);
+    background-color: var(--vp-c-gray-2);
 }
 
 /* 链接样式 */

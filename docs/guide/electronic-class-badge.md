@@ -65,6 +65,7 @@ explorer
   url="/resources/ip-table-smartboard" 
   title="资源：电子班牌 IP 表" 
   description="查看各个电子班牌与 IP 地址的对应表" 
+  logo="/icons/share.svg"
 />
 
 ### 图片 CDN
@@ -92,7 +93,7 @@ explorer
 
 绵中曾有一位学长对电子班牌主程序的代码注入、机制，以及后端服务器等做了深入研究，有兴趣的可以打开他的主页。
 
-[网站](https://konata233.github.io/) | [GitHub主页](https://github.com/myhsp)
+[网站](https://konata233.github.io/) | [GitHub 主页](https://github.com/myhsp)
 
 > [!IMPORTANT]
 > 截至发稿，本站还未与该大佬取得联系（缺联系方式）。看到大佬的研究成果被时间湮没，而编者没有能力进行相关研究，感到十分遗憾。

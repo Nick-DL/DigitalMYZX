@@ -1,6 +1,7 @@
 /* .vitepress/theme/style/index.css */
 @import './blur.css';
 
+/* 为为链接加入动态样式，来自西邮 Wiki */
 a, button {
     -webkit-tap-highlight-color: transparent;
 }

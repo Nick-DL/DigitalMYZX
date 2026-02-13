@@ -18,15 +18,14 @@
   url="/resources/ip-table" 
   title="资源：IP 表" 
   description="快速访问校园常用网站" 
+  logo="/icons/share.svg"
 />
 <Linkcard 
   url="/resources/common-websites" 
   title="资源：校园网网址导航" 
   description="查看校园网络设备的 IP 地址表" 
+  logo="/icons/share.svg"
 />
-
-> [!IMPORTANT]
-> 待补充，计划在资源板块提供常用网站链接表。
 
 ## 特性与研究
 
