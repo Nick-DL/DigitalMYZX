@@ -61,7 +61,7 @@
 }
 
 /* 为外链添加 SVG 箭头,来自西邮 Wiki */
-:is(.vp-external-link-icon, .vp-doc a[href*="://"], .vp-doc a[target=_blank]):not(:is(.no-icon, .no-external-icon, svg a, :has(img, svg))):after {
+:is(.vp-external-link-icon, .vp-doc a[href*="://"], .vp-doc a[target=_blank]):not(:is(.no-icon, .no-external-icon, .resource-card, svg a, :has(img, svg))):after {
   content: "";
   display: inline-block;
   margin-top: -1px;
