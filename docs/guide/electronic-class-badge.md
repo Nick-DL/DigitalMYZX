@@ -1,3 +1,7 @@
+---
+title: 电子班牌
+---
+
 <h1 class="chapter-header">
   <span class="chapter-header-num">五</span>
   <span class="chapter-header-title">电子班牌<br><span style="font-size:24px; font-weight: 600; letter-spacing: 0.05em;">请假系统</span></span>

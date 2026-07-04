@@ -1,3 +1,7 @@
+---
+title: 教室灯
+---
+
 <h1 class="chapter-header">
   <span class="chapter-header-num">三</span>
   <span class="chapter-header-title">教室灯</span>

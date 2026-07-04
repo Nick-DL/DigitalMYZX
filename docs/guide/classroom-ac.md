@@ -1,3 +1,7 @@
+---
+title: 教室空调
+---
+
 <h1 class="chapter-header">
   <span class="chapter-header-num">四</span>
   <span class="chapter-header-title">教室空调</span>

@@ -1,7 +1,11 @@
+---
+title: 希沃（教室电教设备）
+---
+
 <h1 class="chapter-header">
   <span class="chapter-header-num">二</span>
   <span class="chapter-header-title">希沃<br><span style="font-size:24px; font-weight: 600; letter-spacing: 0.05em;">教室电教设备</span></span>
-  <span class="chapter-header-en">Classroom Equipment</span>
+  <span class="chapter-header-en">Seewo<br>(Classroom Equipment)</span>
 </h1>
 
 ## 发展沿革
