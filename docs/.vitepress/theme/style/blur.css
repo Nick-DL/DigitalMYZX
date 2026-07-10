@@ -77,3 +77,23 @@
   }
 
 }
+
+/* 图片预览器 - 毛玻璃效果 */
+
+.vitepress-image-viewer__btn {
+  background-color: rgba(60, 60, 60, 0.35) !important;
+  opacity: 1 !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.vitepress-image-viewer__btn:hover {
+  background-color: rgba(80, 80, 80, 0.5) !important;
+}
+
+.vitepress-image-viewer__actions {
+  background-color: rgba(60, 60, 60, 0.35) !important;
+  opacity: 1 !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}

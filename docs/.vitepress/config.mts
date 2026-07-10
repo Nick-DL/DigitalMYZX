@@ -1,6 +1,20 @@
 import { defineConfig } from 'vitepress'
+import { ImagePreviewPlugin } from 'vitepress-plugin-image-preview'
 
 export default defineConfig({
+  vite: {
+    plugins: [
+      ImagePreviewPlugin({
+        infinite: true,
+        zoomRatio: 1.5,
+        closeOnPressEscape: true,
+        hideOnClickModal: true,
+      })
+    ],
+    build: {
+      assetsInlineLimit: 4096,
+    }
+  },
   lang: 'zh-CN',
   title: '玩转数字绵中',
   description: '玩转数字绵中 文档站',
@@ -13,6 +27,12 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     ['meta', { name: 'theme-color', content: '#9D2C1A' }]
   ],
+
+  markdown: {
+    image: {
+      lazyLoading: true
+    }
+  },
 
   themeConfig: {
     logo: '/logo.svg',
